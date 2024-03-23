@@ -1,4 +1,4 @@
->[!info]
+>[!Note]
 >This mini project's objective is to streamline data insertion into DynamoDB through an S3 bucket using AWS Lambda, enhancing automation efficiency within a serverless architecture.
 
 ## Create an S3 Bucket
